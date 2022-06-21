@@ -20,7 +20,7 @@
         <!-- hadoop.version>3.2.2</hadoop.version -->
         <hbase.version>1.2.0-cdh5.16.2</hbase.version>
         <!--hbase.version>2.0.0</hbase.version -->
-        <mysql.version>5.1.48</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <zk.version>3.4.5</zk.version>
     </properties>
 
